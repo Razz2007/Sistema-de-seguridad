@@ -1,0 +1,13 @@
+package com.taller.Sistema_Seguridad;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SistemaSeguridadApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
